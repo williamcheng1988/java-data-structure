@@ -1,0 +1,15 @@
+.project
+*.log
+pids/*
+!.gitignore
+.settings/
+**/*.svn
+*.svn
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+.idea
+target/*
+*.classpath
+/bin/

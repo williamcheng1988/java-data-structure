@@ -2,6 +2,7 @@
 *.log
 pids/*
 !.gitignore
+.project
 .settings/
 **/*.svn
 *.svn
@@ -13,3 +14,4 @@ pids/*
 target/*
 *.classpath
 /bin/
+*.iml
